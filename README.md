@@ -1,8 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 - 👋 Hi, I’m @oliviahyw
-- 💞️ I’m looking to collaborate on Web Application Development.
-- 📫 Reach me via haoyuew@umich.edu
+- 💞️ I am actively seeking 2024 new graduate software positions in United States.
+- 📫 please do contact me at haoyuew@umich.edu if you are recruiting! 
 
 <h3>Things I code with</h3>
 <p>
