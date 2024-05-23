@@ -17,8 +17,6 @@
   <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Expo" src="https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Next JS" src="https://img.shields.io/badge/Next-black?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
